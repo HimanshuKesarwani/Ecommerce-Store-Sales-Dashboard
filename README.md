@@ -1,5 +1,5 @@
 # E-commerce-Store-Sales-Dashboard
-This dashboard is based on the online sales of a store in India
+This is an interactive dashboard based on the online sales of a store in India
 ## Objective
 The owner of the E-commerce store wants us to create an interactive Dashboard to track and analyze their online sales across India.
 
